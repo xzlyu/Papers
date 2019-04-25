@@ -1,4 +1,8 @@
 There are some papers about researches that combine Knowledge Graph and Recommendation.
 ### Explainable Recommendation
 * KPRN
-  - [Explainable Reasoning over Knowledge Graphs for Recommendation.](https://arxiv.org/abs/1811.04540) (AAAI'19)
+  - [Explainable Reasoning over Knowledge Graphs for Recommendation.](https://arxiv.org/abs/1811.04540) (AAAI 2019)
+* TBD
+  - [Leveraging Meta-path based Context for Top-NRecommendation with A Neural Co-Attention Model.](http://www.shichuan.org/doc/47.pdf) (KDD 2018)
+* RKGE
+  - [Recurrent Knowledge Graph Embedding forEffective Recommendation.](https://yangjiera.github.io/works/recsys2018.pdf)(RecSys 2018)
