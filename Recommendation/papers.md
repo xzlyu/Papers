@@ -8,3 +8,5 @@ There are some papers about researches that combine Knowledge Graph and Recommen
   - [Recurrent Knowledge Graph Embedding for Effective Recommendation.](https://yangjiera.github.io/works/recsys2018.pdf)(RecSys 2018)
 * DKN
   - [DKN: Deep Knowledge-Aware Network for News Recommendation.](https://arxiv.org/pdf/1801.08284.pdf) (WWW 2018)
+* HERec
+  - [Heterogeneous information network embedding for recommendation](https://arxiv.org/pdf/1711.10730.pdf) (TKED 2019)
