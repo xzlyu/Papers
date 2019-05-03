@@ -9,3 +9,11 @@ There are some papers about researches that combine Knowledge Graph and Recommen
   - [DKN: Deep Knowledge-Aware Network for News Recommendation.](https://arxiv.org/pdf/1801.08284.pdf) (WWW 2018)
 * HERec
   - [Heterogeneous information network embedding for recommendation](https://arxiv.org/pdf/1711.10730.pdf) (TKED 2019)
+* Ripplenet
+  - [Ripplenet: Propagating user preferences on the knowledge graph for recommender systems.](https://arxiv.org/pdf/1803.03467.pdf)(CIKM 2018)
+* TEM
+ - [TEM: tree-enhanced embedding model for explainable recommendation](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-tem.pdf)(WWW 2018)
+ * CKE
+ - [Collaborative Knowledge Base Embedding for Recommender Systems] (https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf) (KDD 2016)
+ * FMG
+ - [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks] (http://www.cse.ust.hk/~hzhaoaf/data/kdd17-paper.pdf) (KDD 2017)
