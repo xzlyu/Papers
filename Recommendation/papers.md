@@ -13,7 +13,7 @@ There are some papers about researches that combine Knowledge Graph and Recommen
   - [Ripplenet: Propagating user preferences on the knowledge graph for recommender systems.](https://arxiv.org/pdf/1803.03467.pdf)(CIKM 2018)
 * TEM
  - [TEM: tree-enhanced embedding model for explainable recommendation](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-tem.pdf)(WWW 2018)
- * CKE
+* CKE
  - [Collaborative Knowledge Base Embedding for Recommender Systems] (https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf) (KDD 2016)
- * FMG
+* FMG
  - [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks] (http://www.cse.ust.hk/~hzhaoaf/data/kdd17-paper.pdf) (KDD 2017)
