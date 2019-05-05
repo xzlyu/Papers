@@ -36,5 +36,4 @@ There are some papers about researches that combine Knowledge Graph and Recommen
 * TBD
   - [Hierarchical Context enabled Recurrent Neural Network for Recommendation](https://arxiv.org/pdf/1904.12674.pdf)(AAAI 2019)
 * TBD 
-  - [Relational Collaborative Filtering:
-Modeling Multiple Item Relations for Recommendation](https://arxiv.org/pdf/1904.12796.pdf)
+  - [Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation](https://arxiv.org/pdf/1904.12796.pdf) (SIGIR 2019)
