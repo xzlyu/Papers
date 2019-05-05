@@ -17,3 +17,9 @@ There are some papers about researches that combine Knowledge Graph and Recommen
   - [Collaborative Knowledge Base Embedding for Recommender Systems](https://www.kdd.org/kdd2016/papers/files/adf0066-zhangA.pdf) (KDD 2016)
 * FMG
   - [Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks](http://www.cse.ust.hk/~hzhaoaf/data/kdd17-paper.pdf) (KDD 2017)
+* KG-Autoencoder
+  - [Computing recommendations via a Knowledge Graph-aware Autoencoder](https://arxiv.org/pdf/1807.05006.pdf) (arxiv)
+* Comparison
+  - [An Empirical Comparison of Knowledge GraphEmbeddings for Item Recommendation](http://ceur-ws.org/Vol-2106/paper2.pdf)
+* entity2vec
+  - [entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation](http://giusepperizzo.github.io/publications/Palumbo_Rizzo-RecSys2017.pdf)(RecSys 2017)
