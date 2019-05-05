@@ -29,3 +29,5 @@ There are some papers about researches that combine Knowledge Graph and Recommen
   - [Embedding of embedding (eoe): Joint embedding for coupled heterogeneous networks.] () (WSDM 2017)
 * TBD 
   - [HIN2Vec: Explore Metapaths in Heterogeneous Information Networks for Representation Learning]() (CIKM 2017)
+* metapath2vec
+  - [metapath2vec: Scalable representation learning for heterogeneous networks.]() (KDD 2017)
