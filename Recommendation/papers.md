@@ -1,4 +1,6 @@
 There are some papers about researches that combine Knowledge Graph and Recommendation.
+* KGAT
+  -[KGAT: Knowledge Graph Attention Network for Recommendation.]()(KDD 2019)
 * KPRN
   - [Explainable Reasoning over Knowledge Graphs for Recommendation.](https://arxiv.org/pdf/1811.04540.pdf) (AAAI 2019)
 * TBD
