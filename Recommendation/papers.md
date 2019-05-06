@@ -28,7 +28,7 @@ There are some papers about researches that combine Knowledge Graph and Recommen
 * entity2vec
   - [entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation](http://giusepperizzo.github.io/publications/Palumbo_Rizzo-RecSys2017.pdf)(RecSys 2017)
 * EOE
-  - [Embedding of embedding (eoe): Joint embedding for coupled heterogeneous networks.] () (WSDM 2017)
+  - [Embedding of embedding (eoe): Joint embedding for coupled heterogeneous networks.](http://shichuan.org/hin/time/2017.%20WSDM%20Embedding%20of%20Embedding%20EOE%20Joint%20Embedding%20for%20Coupled%20Heterogeneous%20Networks.pdf) (WSDM 2017)
 * TBD 
   - [HIN2Vec: Explore Metapaths in Heterogeneous Information Networks for Representation Learning]() (CIKM 2017)
 * metapath2vec
