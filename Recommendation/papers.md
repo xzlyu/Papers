@@ -38,4 +38,4 @@ There are some papers about researches that combine Knowledge Graph and Recommen
 * TBD 
   - [Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation](https://arxiv.org/pdf/1904.12796.pdf) (SIGIR 2019)
 * RuleRec
-  - [Jointly Learning Explainable Rules for Recommendation with Knowledge Graph.] (https://arxiv.org/pdf/1903.03714.pdf) (WWW 2019)
+  - [Jointly Learning Explainable Rules for Recommendation with Knowledge Graph.](https://arxiv.org/pdf/1903.03714.pdf) (WWW 2019)
