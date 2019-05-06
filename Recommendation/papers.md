@@ -46,3 +46,5 @@ There are some papers about researches that combine Knowledge Graph and Recommen
   - [Unifying Knowledge Graph Learning and Recommendation:
 Towards a Better Understanding of User Preferences
 ](https://arxiv.org/pdf/1902.06236.pdf) (WWW 2019)
+* RANK-CSE
+  - [Collaborative Similarity Embedding for Recommender Systems](https://arxiv.org/pdf/1902.06188.pdf)(WWW 2019)
