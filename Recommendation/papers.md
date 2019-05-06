@@ -33,9 +33,9 @@ There are some papers about researches that combine Knowledge Graph and Recommen
   - [metapath2vec: Scalable representation learning for heterogeneous networks.]() (KDD 2017)
 * NeuCF
   - [Neural collaborative filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)(WWW 2017)
-* TBD
+* TBD (It is too hard for me.)
   - [Hierarchical Context enabled Recurrent Neural Network for Recommendation](https://arxiv.org/pdf/1904.12674.pdf)(AAAI 2019)
-* TBD 
+* RCF 
   - [Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation](https://arxiv.org/pdf/1904.12796.pdf) (SIGIR 2019)
   - Find the interested type of different users.
 * RuleRec
