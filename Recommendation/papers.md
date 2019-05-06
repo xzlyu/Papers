@@ -42,3 +42,7 @@ There are some papers about researches that combine Knowledge Graph and Recommen
   - Find the interested type of different users.
 * RuleRec
   - [Jointly Learning Explainable Rules for Recommendation with Knowledge Graph.](https://arxiv.org/pdf/1903.03714.pdf) (WWW 2019)
+* KTUP
+  - [Unifying Knowledge Graph Learning and Recommendation:
+Towards a Better Understanding of User Preferences
+](https://arxiv.org/pdf/1902.06236.pdf) (WWW 2019)
