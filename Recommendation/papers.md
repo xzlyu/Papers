@@ -1,4 +1,6 @@
 There are some papers about researches that combine Knowledge Graph and Recommendation.
+* Tutorial
+  - [Explainable Recommendation](http://www.nextcenter.org/wp-content/uploads/2018/10/12.-Wang-Xiang.pdf)
 * Survey
   - [Explainable Recommendation: A Survey and New Perspectives.](https://arxiv.org/pdf/1804.11192.pdf)(Yongfeng Zhang, Xu Chen)
 * KGAT
