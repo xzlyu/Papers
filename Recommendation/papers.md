@@ -52,3 +52,5 @@ Towards a Better Understanding of User Preferences
   - [Collaborative Similarity Embedding for Recommender Systems](https://arxiv.org/pdf/1902.06188.pdf)(WWW 2019)
 * Shine
   - [Shine: Signed heterogeneous information network embedding for sentiment link prediction](https://arxiv.org/pdf/1712.00732.pdf)(WSDM 2018)
+* HeteRec
+  - [Personalized Entity Recommendation: A Heterogeneous Information Network Approach](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf) (WSDM 2014)
