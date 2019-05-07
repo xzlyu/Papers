@@ -57,4 +57,8 @@ Towards a Better Understanding of User Preferences
 * Semantic-MF
   - [Joint Topic-Semantic-aware Social Recommendation for Online Voting.](https://arxiv.org/pdf/1712.00731.pdf) (CIKM 2017)
 * KGCN
-  - [Knowledge Graph Convolutional Networks for Recommender Systems.](https://arxiv.org/pdf/1904.12575.pdf) (WWW 2019)Knowledge Graph Convolutional Networks for Recommender Systems.
+  - [Knowledge Graph Convolutional Networks for Recommender Systems.](https://arxiv.org/pdf/1904.12575.pdf) (WWW 2019)
+* NGCF
+  - [Neural Graph Collaborative Filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir19-NGCF.pdf) (SIGIR 2019)
+* GraphRec
+  - [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW 2019)
