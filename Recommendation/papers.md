@@ -34,7 +34,7 @@ There are some papers about researches that combine Knowledge Graph and Recommen
 * TBD 
   - [HIN2Vec: Explore Metapaths in Heterogeneous Information Networks for Representation Learning]() (CIKM 2017)
 * metapath2vec
-  - [metapath2vec: Scalable representation learning for heterogeneous networks.]() (KDD 2017)
+  - [metapath2vec: Scalable representation learning for heterogeneous networks.](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) (KDD 2017)
 * NeuCF
   - [Neural collaborative filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf)(WWW 2017)
 * TBD (It is too hard for me.)
