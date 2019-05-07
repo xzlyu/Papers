@@ -56,3 +56,5 @@ Towards a Better Understanding of User Preferences
   - [Personalized Entity Recommendation: A Heterogeneous Information Network Approach](http://hanj.cs.illinois.edu/pdf/wsdm14_xyu.pdf) (WSDM 2014)
 * Semantic-MF
   - [Joint Topic-Semantic-aware Social Recommendation for Online Voting.](https://arxiv.org/pdf/1712.00731.pdf) (CIKM 2017)
+* KGCN
+  - [Knowledge Graph Convolutional Networks for Recommender Systems.](https://arxiv.org/pdf/1904.12575.pdf) (WWW 2019)Knowledge Graph Convolutional Networks for Recommender Systems.
