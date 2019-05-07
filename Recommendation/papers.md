@@ -50,3 +50,5 @@ Towards a Better Understanding of User Preferences
 ](https://arxiv.org/pdf/1902.06236.pdf) (WWW 2019)
 * RANK-CSE
   - [Collaborative Similarity Embedding for Recommender Systems](https://arxiv.org/pdf/1902.06188.pdf)(WWW 2019)
+* Shine
+  - [Shine: Signed heterogeneous information network embedding for sentiment link prediction](https://arxiv.org/pdf/1712.00732.pdf)(WSDM 2018)
