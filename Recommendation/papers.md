@@ -62,3 +62,5 @@ Towards a Better Understanding of User Preferences
   - [Neural Graph Collaborative Filtering](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir19-NGCF.pdf) (SIGIR 2019)
 * GraphRec
   - [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW 2019)
+* TransFM
+  - [Translation-based Factorization Machines for Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18a.pdf)(RecSys 2019)
