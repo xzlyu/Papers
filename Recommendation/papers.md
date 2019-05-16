@@ -65,4 +65,4 @@ Towards a Better Understanding of User Preferences
 * TransFM
   - [Translation-based Factorization Machines for Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18a.pdf)(RecSys 2019)
 * KGCN-LSR
-  - [Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization](https://arxiv.org/pdf/1905.04413.pdf)
+  - [Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization](https://arxiv.org/pdf/1905.04413.pdf) (KDD-2019)
