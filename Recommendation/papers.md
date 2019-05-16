@@ -64,3 +64,5 @@ Towards a Better Understanding of User Preferences
   - [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW 2019)
 * TransFM
   - [Translation-based Factorization Machines for Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18a.pdf)(RecSys 2019)
+* KGCN-LSR
+  - [Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization](https://arxiv.org/pdf/1905.04413.pdf)
