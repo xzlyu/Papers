@@ -20,3 +20,6 @@ There are papers about Rule Leaning over Knowledge Graph.
 * RNN
   - [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](http://www.aclweb.org/anthology/E17-1013)(EMNLP'17)
   - [Compositional Vector Space Models for Knowledge Base Completion.](http://www.aclweb.org/anthology/P15-1016)(ACL'15)
+
+* Unsorted
+  - [Jointly Embedding Knowledge Graphs and Logical Rules](https://www.aclweb.org/anthology/D16-1019)(EMNLP'16)
